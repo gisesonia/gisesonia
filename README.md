@@ -17,7 +17,7 @@
  ![Javascript](https://img.shields.io/badge/-Javascript-green)
  ![HTML](https://img.shields.io/badge/-HTML-yellow)
  ![CSS](https://img.shields.io/badge/-CSS-orange)
- ![Wordpress](https://img.shields.io/badge/-Wordpress-yellow)
+ ![Wordpress](https://img.shields.io/badge/-Wordpress-blue)
  
 
  ### :books: Eu estou aprendendo:
