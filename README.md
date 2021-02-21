@@ -39,3 +39,7 @@
  > * https://github.com/gisesonia/python_pandas
  > * https://github.com/gisesonia/visualizacaodados
 
+> [!div class="checklist"]
+> * List item 1
+> * List item 2
+> * List item 3
