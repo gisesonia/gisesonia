@@ -12,6 +12,14 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ ### :books: Já trabalhei com:
+ 
+ ![Javascript](https://img.shields.io/badge/-Javascript-green)
+ ![HTML](https://img.shields.io/badge/-HTML-yellow)
+ ![CSS](https://img.shields.io/badge/-CSS-orange)
+ ![Wordpress](https://img.shields.io/badge/-Wordpress-yellow)
+ 
+
  ### :books: Eu estou aprendendo:
  - ![Kotlin](https://img.shields.io/badge/-kotlin-006a71?&logo=kotlin) ![Flutter](https://img.shields.io/badge/-Flutter-5dcede?&logo=flutter) ![Dart](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart)
- - ![Python](https://img.shields.io/badge/-Python-780723?&logo=python) 
+ - ![Python](https://img.shields.io/badge/-Python-780723?&logo=python) - Data Science
