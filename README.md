@@ -24,17 +24,15 @@
  > ![Kotlin](https://img.shields.io/badge/-kotlin-006a71?&logo=kotlin) 
  - https://github.com/gisesonia/TodoList
  - https://github.com/gisesonia/imc-app
- - 
-
-
- > ![Flutter](https://img.shields.io/badge/-Flutter-5dcede?&logo=flutter) 
-  -https://github.com/gisesonia/gisesonia.github.io
-  -https://github.com/gisesonia/movieapp
-  -https://github.com/gisesonia/bytebankalura
-  
- > ![Dart](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart)
  
+
+ > ![Dart](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart)
+ > ![Flutter](https://img.shields.io/badge/-Flutter-5dcede?&logo=flutter) 
+ - https://github.com/gisesonia/gisesonia.github.io
+ - https://github.com/gisesonia/movieapp
+ - https://github.com/gisesonia/bytebankalura
+  
  > ![Python Data Science](https://img.shields.io/badge/Python-Data%20Science-yellow?logo=python)
-  -https://github.com/gisesonia/python_pandas
-  -https://github.com/gisesonia/visualizacaodados
+ - https://github.com/gisesonia/python_pandas
+ - https://github.com/gisesonia/visualizacaodados
 
