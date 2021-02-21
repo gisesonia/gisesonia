@@ -22,24 +22,17 @@
 
  ### :books: Eu estou aprendendo:
  > ![Kotlin](https://img.shields.io/badge/-kotlin-006a71?&logo=kotlin) 
- > [!div class="checklist"]
  > * https://github.com/gisesonia/TodoList
  > * https://github.com/gisesonia/imc-app
  
 
  > ![Dart](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart)
  > ![Flutter](https://img.shields.io/badge/-Flutter-5dcede?&logo=flutter) 
- > [!div class="checklist"]
  > * https://github.com/gisesonia/gisesonia.github.io
  > * https://github.com/gisesonia/movieapp)
  > * https://github.com/gisesonia/bytebankalura
   
  > ![Python Data Science](https://img.shields.io/badge/Python-Data%20Science-yellow?logo=python)
- > [!div class="checklist"]
  > * https://github.com/gisesonia/python_pandas
  > * https://github.com/gisesonia/visualizacaodados
 
-> [!div class="checklist"]
-> * List item 1
-> * List item 2
-> * List item 3
