@@ -14,10 +14,10 @@
 -->
  ### :books: Já trabalhei com:
  
- ![Javascript](https://img.shields.io/badge/-Javascript-green)
- ![HTML](https://img.shields.io/badge/-HTML-yellow)
- ![CSS](https://img.shields.io/badge/-CSS-orange)
- ![Wordpress](https://img.shields.io/badge/-Wordpress-blue)
+ >![Javascript](https://img.shields.io/badge/-Javascript-green)
+ >![HTML](https://img.shields.io/badge/-HTML-yellow)
+ >![CSS](https://img.shields.io/badge/-CSS-orange)
+ >![Wordpress](https://img.shields.io/badge/-Wordpress-blue)
  
 
  ### :books: Eu estou aprendendo:
