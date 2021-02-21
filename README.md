@@ -12,7 +12,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- ### :books: Já trabalhei com:
+ ### :computer: Já trabalhei com:
  
  >![Javascript](https://img.shields.io/badge/-Javascript-green)
  >![HTML](https://img.shields.io/badge/-HTML-yellow)
