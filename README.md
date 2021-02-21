@@ -29,7 +29,7 @@
  > ![Dart](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart)
  > ![Flutter](https://img.shields.io/badge/-Flutter-5dcede?&logo=flutter) 
  > * https://github.com/gisesonia/gisesonia.github.io
- > * https://github.com/gisesonia/movieapp)
+ > * https://github.com/gisesonia/movieapp
  > * https://github.com/gisesonia/bytebankalura
   
  > ![Python Data Science](https://img.shields.io/badge/Python-Data%20Science-yellow?logo=python)
