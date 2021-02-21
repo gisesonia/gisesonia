@@ -24,5 +24,5 @@
  - ![Kotlin](https://img.shields.io/badge/-kotlin-006a71?&logo=kotlin) 
  - ![Flutter](https://img.shields.io/badge/-Flutter-5dcede?&logo=flutter) 
  - ![Dart](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart)
- - [![Python Data Science](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+ - [![Python Data Science](https://img.shields.io/badge/Python-Data%20Science-yellow?logo=python)
 
