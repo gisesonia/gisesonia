@@ -21,7 +21,7 @@
  
 
  ### :books: Eu estou aprendendo:
- > ![Kotlin](https://img.shields.io/badge/-Kotlin-006aff?&logo=kotlin) 
+ > ![Kotlin](https://img.shields.io/badge/-Kotlin-ff8d3a?&logo=kotlin) 
  > * https://github.com/gisesonia/TodoList
  > * https://github.com/gisesonia/imc-app
  
