@@ -20,7 +20,7 @@
  >![Wordpress](https://img.shields.io/badge/-Wordpress-blue)
  
 
- ### :books: Eu estou aprendendo:
+ ### :books: Destaque:
  > ![Kotlin](https://img.shields.io/badge/-Kotlin-ff8d3a?&logo=kotlin) 
  > * https://github.com/gisesonia/TodoList
  > * https://github.com/gisesonia/imc-app
