@@ -20,10 +20,11 @@
  >![Wordpress](https://img.shields.io/badge/-Wordpress-blue)
  
 
- ### :books: Destaque:
+ ### :books: Estudo constante:
  > ![Kotlin](https://img.shields.io/badge/-Kotlin-ff8d3a?&logo=kotlin) 
  > * https://github.com/gisesonia/TodoList
  > * https://github.com/gisesonia/imc-app
+ > * https://github.com/gisesonia/twittelumweb (Android MVVM)
  
 
  > ![Dart](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart)
